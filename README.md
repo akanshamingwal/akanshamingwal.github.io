@@ -1,6 +1,7 @@
 
-#LINK TO PORTFOLIO https://akanshamingwal.github.io/
-#Here are the screenshots of my portfolio
+LINK TO PORTFOLIO https://akanshamingwal.github.io/
+
+Here are the screenshots of my portfolio
 ![Screenshot (234)](https://user-images.githubusercontent.com/50590013/129546174-774be151-ba1f-467f-b183-ae86cb312d0a.png)
 
 
